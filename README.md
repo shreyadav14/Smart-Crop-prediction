@@ -3,3 +3,5 @@ Built an ML-based crop prediction system that suggests optimal crops using envir
 
 #Involves
 It is a simple prediction system with data extraction, data cleaning, data manipulation and with 99% prediction accuracy.
+
+Streamlit deployment
